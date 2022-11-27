@@ -1,0 +1,11 @@
+лист. 10, 2022 7:07:39 ПП main.MenuManaging mainMenuText
+INFO: Print main menu
+лист. 10, 2022 7:07:45 ПП main.MenuManaging deviceMenuText
+INFO: Print device menu
+лист. 10, 2022 7:07:56 ПП command.RegulateCommands certainty
+INFO: user choose 4 command
+лист. 10, 2022 7:07:56 ПП command.RegulateCommands certainty
+INFO: 
+Name='ps5', power=220, state=true is turn ON
+лист. 10, 2022 7:08:00 ПП command.RegulateCommands certainty
+INFO: user choose 1 command

@@ -15,7 +15,7 @@ public class Main {
 
     public static void mainMenu(){
 
-        ArrayList<ElectronicDevice> allDevices = new ArrayList<>(AvailableDevices.baseDevices());
+        List<ElectronicDevice> allDevices = new ArrayList<>(AvailableDevices.baseDevices());
         int choice = 0;
         do{
             MenuManaging.mainMenuText();
